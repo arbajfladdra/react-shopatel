@@ -346,6 +346,7 @@ section {
   justify-content: space-between;
   backdrop-filter: blur(2px);
   border-bottom: 1px black solid;
+  background-color: black;
 }
 .section-flex-item.section-img-wrapper img {
   width: 100%;
