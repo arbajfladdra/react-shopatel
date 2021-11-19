@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/react-shopatel/static/css/main.11d08464.chunk.css",
+    "main.js": "/react-shopatel/static/js/main.3af5a4e4.chunk.js",
+    "main.js.map": "/react-shopatel/static/js/main.3af5a4e4.chunk.js.map",
+    "runtime-main.js": "/react-shopatel/static/js/runtime-main.ce3dc898.js",
+    "runtime-main.js.map": "/react-shopatel/static/js/runtime-main.ce3dc898.js.map",
+    "static/js/2.e131cac9.chunk.js": "/react-shopatel/static/js/2.e131cac9.chunk.js",
+    "static/js/2.e131cac9.chunk.js.map": "/react-shopatel/static/js/2.e131cac9.chunk.js.map",
+    "static/js/3.85607cbc.chunk.js": "/react-shopatel/static/js/3.85607cbc.chunk.js",
+    "static/js/3.85607cbc.chunk.js.map": "/react-shopatel/static/js/3.85607cbc.chunk.js.map",
+    "index.html": "/react-shopatel/index.html",
+    "static/css/main.11d08464.chunk.css.map": "/react-shopatel/static/css/main.11d08464.chunk.css.map",
+    "static/js/2.e131cac9.chunk.js.LICENSE.txt": "/react-shopatel/static/js/2.e131cac9.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/react-shopatel/static/media/bg.0e9d05e4.jpg",
+    "static/media/about.3e65d861.png": "/react-shopatel/static/media/about.3e65d861.png",
+    "static/media/alpha.1670bd42.jpg": "/react-shopatel/static/media/alpha.1670bd42.jpg",
+    "static/media/Services.style.css": "/react-shopatel/static/media/bg2.0e9d05e4.jpg",
+    "static/media/illustrator2.09ae5cbb.png": "/react-shopatel/static/media/illustrator2.09ae5cbb.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ce3dc898.js",
+    "static/js/2.e131cac9.chunk.js",
+    "static/css/main.11d08464.chunk.css",
+    "static/js/main.3af5a4e4.chunk.js"
+  ]
+}
